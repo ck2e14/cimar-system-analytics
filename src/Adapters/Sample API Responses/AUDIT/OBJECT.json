@@ -1,0 +1,317 @@
+{
+   "page": {
+      "manual_limit": 1,
+      "number": 1,
+      "more": 0,
+      "rows": 100
+   },
+   "status": "OK",
+   "events": [
+      {
+         "action": "EDIT",
+         "type": "Study",
+         "what": "",
+         "uuid": "4d3932ee-7548-4ea6-a6c9-3b0967354704",
+         "sid": "2bd4e24b-5293-442e-af06-8e8fb2c2518f",
+         "proxy": "",
+         "detail": {
+            "attachment_count": ["1", "2"]
+         },
+         "who": "Indran Davagnanam",
+         "when": "2021-03-14 16:36:57.964513+00",
+         "client_address": "::1"
+      },
+      {
+         "client_address": "82.38.37.61",
+         "who": "Indran Davagnanam",
+         "when": "2021-03-14 16:36:57.933276+00",
+         "detail": {
+            "last_status_change": ["2021-03-14 16:36:19+00", "2021-03-14 16:36:57"]
+         },
+         "proxy": "",
+         "sid": "2bd4e24b-5293-442e-af06-8e8fb2c2518f",
+         "uuid": "4d3932ee-7548-4ea6-a6c9-3b0967354704",
+         "action": "EDIT",
+         "type": "Study",
+         "what": ""
+      },
+      {
+         "what": "",
+         "action": "EDIT",
+         "type": "Study",
+         "sid": "2bd4e24b-5293-442e-af06-8e8fb2c2518f",
+         "uuid": "4d3932ee-7548-4ea6-a6c9-3b0967354704",
+         "proxy": "",
+         "detail": {
+            "attachment_count": ["0", "1"]
+         },
+         "when": "2021-03-14 16:36:19.78236+00",
+         "who": "Indran Davagnanam",
+         "client_address": "::1"
+      },
+      {
+         "what": "",
+         "type": "Study",
+         "action": "EDIT",
+         "sid": "2bd4e24b-5293-442e-af06-8e8fb2c2518f",
+         "proxy": "",
+         "uuid": "4d3932ee-7548-4ea6-a6c9-3b0967354704",
+         "detail": {
+            "status_timer": ["0", "85418"],
+            "last_status_change": ["2021-03-13 16:52:41.849741+00", "2021-03-14 16:36:19"],
+            "study_status": [null, "Complete"]
+         },
+         "when": "2021-03-14 16:36:19.719664+00",
+         "who": "Indran Davagnanam",
+         "client_address": "82.38.37.61"
+      },
+      {
+         "client_address": "::1",
+         "who": "System",
+         "with": "Site: Bishopswood",
+         "when": "2021-03-13 16:58:19.283758+00",
+         "uuid": null,
+         "sid": "NA",
+         "proxy": "",
+         "action": "CREATE",
+         "type": "Study_share",
+         "what": "",
+         "detail": null
+      },
+      {
+         "what": "",
+         "type": "Study",
+         "action": "STUDY_ROUTE",
+         "sid": "NA",
+         "proxy": "",
+         "uuid": "4d3932ee-7548-4ea6-a6c9-3b0967354704",
+         "detail": {
+            "uuid": "9cf3389a-3f90-488c-a415-b32a2e628232",
+            "name": "Share with Bishops Wood Hospital"
+         },
+         "when": "2021-03-13 16:58:19.267981+00",
+         "who": "System",
+         "client_address": "::1"
+      },
+      {
+         "sid": "NA",
+         "uuid": null,
+         "proxy": "",
+         "what": "",
+         "action": "CREATE",
+         "type": "Study_share",
+         "detail": null,
+         "client_address": "::1",
+         "when": "2021-03-13 16:58:19.091389+00",
+         "with": "Dr Indran Davagnanam",
+         "who": "System"
+      },
+      {
+         "detail": {
+            "name": "CIDAVGNA",
+            "uuid": "19245536-0557-4197-8ec9-d6addcf339af"
+         },
+         "sid": "NA",
+         "uuid": "4d3932ee-7548-4ea6-a6c9-3b0967354704",
+         "proxy": "",
+         "action": "STUDY_ROUTE",
+         "type": "Study",
+         "what": "",
+         "client_address": "::1",
+         "who": "System",
+         "when": "2021-03-13 16:58:19.070325+00"
+      },
+      {
+         "detail": {
+            "uuid": "6fbb794b-506a-482f-aef9-de1adb10194c",
+            "name": "Trigger Force Study Sync"
+         },
+         "proxy": "",
+         "sid": "NA",
+         "uuid": "4d3932ee-7548-4ea6-a6c9-3b0967354704",
+         "what": "",
+         "action": "STUDY_ROUTE",
+         "type": "Study",
+         "client_address": "::1",
+         "when": "2021-03-13 16:58:18.835208+00",
+         "who": "System"
+      },
+      {
+         "client_address": "::1",
+         "who": "System",
+         "when": "2021-03-13 16:58:18.739284+00",
+         "detail": {
+            "modality": ["OT", "MR"],
+            "source_ae_title": ["DCMSND", "NTH-GW1-Q"],
+            "study_time": ["165241", "000000"],
+            "patient_weight": [null, "65"],
+            "patient_age": [null, "054Y"],
+            "image_count": ["2", "282"],
+            "size": ["5791862", "36518184"],
+            "patientid_other": [null, "R4282523"]
+         },
+         "uuid": "4d3932ee-7548-4ea6-a6c9-3b0967354704",
+         "sid": "NA",
+         "proxy": "",
+         "type": "Study",
+         "action": "EDIT",
+         "what": ""
+      },
+      {
+         "detail": {
+            "study_description": [null, "MRI Head"]
+         },
+         "proxy": "",
+         "sid": "61075527-7bf0-420c-ae3f-699dbe64265d",
+         "uuid": "4d3932ee-7548-4ea6-a6c9-3b0967354704",
+         "type": "Study",
+         "action": "EDIT",
+         "what": "",
+         "client_address": "127.0.0.1",
+         "who": "Webhook User (DO NOT DELETE)",
+         "when": "2021-03-13 16:52:42.769825+00"
+      },
+      {
+         "client_address": "::1",
+         "who": "System",
+         "with": "Site: Bishopswood",
+         "when": "2021-03-13 16:52:42.501923+00",
+         "proxy": "",
+         "sid": "NA",
+         "uuid": null,
+         "action": "CREATE",
+         "type": "Study_share",
+         "what": "",
+         "detail": null
+      },
+      {
+         "detail": {
+            "uuid": "9cf3389a-3f90-488c-a415-b32a2e628232",
+            "name": "Share with Bishops Wood Hospital"
+         },
+         "sid": "NA",
+         "uuid": "4d3932ee-7548-4ea6-a6c9-3b0967354704",
+         "proxy": "",
+         "what": "",
+         "action": "STUDY_ROUTE",
+         "type": "Study",
+         "client_address": "::1",
+         "when": "2021-03-13 16:52:42.462723+00",
+         "who": "System"
+      },
+      {
+         "who": "System",
+         "with": "Dr Indran Davagnanam",
+         "when": "2021-03-13 16:52:42.27646+00",
+         "client_address": "::1",
+         "detail": null,
+         "type": "Study_share",
+         "action": "CREATE",
+         "what": "",
+         "proxy": "",
+         "sid": "NA",
+         "uuid": null
+      },
+      {
+         "type": "Study",
+         "action": "STUDY_ROUTE",
+         "what": "",
+         "sid": "NA",
+         "uuid": "4d3932ee-7548-4ea6-a6c9-3b0967354704",
+         "proxy": "",
+         "detail": {
+            "name": "CIDAVGNA",
+            "uuid": "19245536-0557-4197-8ec9-d6addcf339af"
+         },
+         "who": "System",
+         "when": "2021-03-13 16:52:42.236162+00",
+         "client_address": "::1"
+      },
+      {
+         "detail": {
+            "uuid": "6fbb794b-506a-482f-aef9-de1adb10194c",
+            "name": "Trigger Force Study Sync"
+         },
+         "sid": "NA",
+         "uuid": "4d3932ee-7548-4ea6-a6c9-3b0967354704",
+         "proxy": "",
+         "what": "",
+         "type": "Study",
+         "action": "STUDY_ROUTE",
+         "client_address": "::1",
+         "when": "2021-03-13 16:52:42.003896+00",
+         "who": "System"
+      },
+      {
+         "when": "2021-03-13 16:52:41.906273+00",
+         "who": "System",
+         "client_address": "::1",
+         "what": "",
+         "action": "EDIT",
+         "type": "Study",
+         "sid": "NA",
+         "proxy": "",
+         "uuid": "4d3932ee-7548-4ea6-a6c9-3b0967354704",
+         "detail": {
+            "customfields": [
+               {
+                  "3550": null,
+                  "3552": null,
+                  "3556": null,
+                  "3558": null,
+                  "3731": null,
+                  "3796": null,
+                  "3848": null
+               },
+               {
+                  "3550": "MRI Head",
+                  "3552": "7797378",
+                  "3556": "4282523",
+                  "3558": "19801381",
+                  "3731": "19801381^^^EMPI^MR~4282523^^^CRIS^PI~CRS4282523^^^CRS^MR~BWD3193461^^^BWD^MR",
+                  "3796": "CIDAVGNA",
+                  "3848": "BWD"
+               }
+            ]
+         }
+      },
+      {
+         "detail": {
+            "destination_ae_title": [null, "DG_HARVESTER"],
+            "patient_sex": [null, "F"],
+            "size": [null, "5791862"],
+            "patient_name": [null, "MARTIN^^^BRIDGET"],
+            "patientid": [null, "19801381"],
+            "image_count": ["0", "2"],
+            "study_date": [null, "20210313"],
+            "accession_number": [null, "7762529"],
+            "study_time": [null, "165241"],
+            "patient_birth_date": [null, "19660324"],
+            "modality": [null, "OT"],
+            "source_ae_title": [null, "DCMSND"],
+            "referring_physician": [null, "C4040222"]
+         },
+         "type": "Study",
+         "action": "EDIT",
+         "what": "",
+         "proxy": "",
+         "sid": "NA",
+         "uuid": "4d3932ee-7548-4ea6-a6c9-3b0967354704",
+         "who": "System",
+         "when": "2021-03-13 16:52:41.878107+00",
+         "client_address": "::1"
+      },
+      {
+         "detail": null,
+         "what": "",
+         "type": "Study",
+         "action": "CREATE",
+         "uuid": "4d3932ee-7548-4ea6-a6c9-3b0967354704",
+         "sid": "NA",
+         "proxy": "",
+         "when": "2021-03-13 16:52:41.858066+00",
+         "who": "System",
+         "client_address": "::1"
+      }
+   ]
+}
